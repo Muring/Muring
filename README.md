@@ -19,5 +19,5 @@ My github is pretty dry now, but my goal is to make this github fancy and shiny 
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=muring&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muring&layout=compact&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muring&layout=compact&theme=tokyonight) -->
 
