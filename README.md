@@ -20,6 +20,7 @@ My goal is to make this github fancy and shiny so see me in the future!
 <code><img height="20" alt="c" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
 <code><img height="20" alt="cplusplus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="20" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="20" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/java-original.svg"></code>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=muring&show_icons=true&theme=tokyonight)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muring&layout=compact&theme=tokyonight) -->
