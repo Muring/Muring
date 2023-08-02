@@ -22,6 +22,6 @@ My goal is to make this github fancy and shiny so see me in the future!
 <code><img height="20" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
 <code><img height="20" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muring&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muring&show_icons=true&theme=tokyonight)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muring&layout=compact&theme=tokyonight) -->
 
