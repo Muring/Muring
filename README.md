@@ -1,7 +1,7 @@
 # Greetings my developer👀
 
 ### Who am I?
-Welcome to my GitHub. I am Sehyun Eom, a front-end developer who wishes to enhance user convenience. 
+Welcome to my GitHub. I am Sehyeon Eom, a front-end developer who wishes to enhance user convenience. 
 To achieve this, I am currently studying web page development using Vue.js. 
 I am working on a project using Nuxt3 at the moment, and I plan to create projects using React in the future.
 Making this GitHub great is my goal, so please stay tuned!
