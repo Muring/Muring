@@ -14,8 +14,8 @@ Making this GitHub great is my goal, so please stay tuned!
 
 ### What's in my Github? (Now or later)
 * Coding algorithm study
-* GHIBURI(집우리) project
-* SEAS project
+* 부동산 웹 플랫폼 "집우리" 개발
+* 사회 초년생을 위한 CS 퀴즈 웹 플랫폼 "SEAS" 개발
 * (WIll be added more soon)   
 
 ## 💻 My Stack
