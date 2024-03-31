@@ -1,18 +1,21 @@
 # Greetings my developer👀
 
 ### Who am I?
-Welcome to my github profile. I'm a student from Sangmyung university majoring Dpt. of Information Security.   
-But currently my goal is to be a game developer so I'm now studying game programming with Unreal Engine 5.   
-My goal is to make this github fancy and shiny so see me in the future!   
+Welcome to my GitHub. I am Sehyun Eom, a front-end developer who wishes to enhance user convenience. 
+To achieve this, I am currently studying web page development using Vue.js. 
+I am working on a project using Nuxt3 at the moment, and I plan to create projects using React in the future.
+Making this GitHub great is my goal, so please stay tuned!
 
-제 깃헙에 오신걸 환영합니다. 저는 상명대학교에서 정보보안공학과를 전공하고있는 학생입니다.   
-하지만 현재 저의 꿈은 게임 개발자이기 때문에 언리얼 엔진5를 활용한 게임 개발을 공부하고 있습니다.   
+제 깃헙에 오신걸 환영합니다. 저는 사용자 편의성을 증진하고 싶은 프론트엔드 개발자 엄세현 입니다.
+이를 위해, Vue.js를 활용한 웹 페이지 개발을 공부하고 있습니다. 
+현재는 Nuxt3를 활용해 프로젝트를 진행중에 있으며, 향후 React를 활용한 프로젝트를 제작할 예정입니다.
 이 깃헙을 멋지게 만드는 것이 제 목표이니 기다려주세요!
 #
 
 ### What's in my Github? (Now or later)
-* Coding test problem solutions
-* Simple game projects
+* Coding algorithm study
+* GHIBURI(집우리) project
+* SEAS project
 * (WIll be added more soon)   
 
 #
