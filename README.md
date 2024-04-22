@@ -22,7 +22,7 @@ Making this GitHub great is my goal, so please stay tuned!
 ## 💻 My Stack
 
 ### Can do
-<img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/><img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/><img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/><img alt="Sass" src ="https://img.shields.io/badge/sass-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/><img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/><img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/><img alt="Sass" src ="https://img.shields.io/badge/sass-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white"/><img alt="css3" src ="https://img.shields.io/badge/css3-CC6699.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Design-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 
