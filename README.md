@@ -38,5 +38,5 @@ Making this GitHub great is my goal, so please stay tuned!
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muring&show_icons=true&theme=tokyonight)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muring&layout=compact&theme=tokyonight) -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=111esh)](https://solved.ac/111esh)<br/>
 
