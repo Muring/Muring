@@ -1,23 +1,28 @@
 # Greetings my developer👀
 
-### Who am I?
-Welcome to my GitHub. I am Sehyeon Eom, a front-end developer who wishes to enhance user convenience. <br>
-To achieve this, I am currently studying web page development using Vue.js. <br>
-I am working on a project using Nuxt3 at the moment, and I plan to create projects using React in the future.<br>
-Making this GitHub great is my goal, so please stay tuned!
+### I develop for U & I
+Welcome to my GitHub!<br>
+I develop for user convenience and developer convenience.<br>
 
-제 깃헙에 오신걸 환영합니다. 저는 사용자 편의성을 증진하고 싶은 프론트엔드 개발자 엄세현 입니다.<br>
-이를 위해, Vue.js를 활용한 웹 페이지 개발을 공부하고 있습니다. <br>
-현재는 Nuxt3를 활용해 프로젝트를 진행중에 있으며, 향후 React를 활용한 프로젝트를 제작할 예정입니다.<br>
-이 깃헙을 멋지게 만드는 것이 제 목표이니 기다려주세요!<br>
-#
+#### For Developer
+Tried many different **frameworks and libraries** to cooperate with any kind of developers.<br>
+Learned **Typecsript** for better cooperation in frontend developing.<br>
+Studied **Spring & Srping boot** for better communication with back end developers.<br>
+**Experienced the entire process** of ideation, specification writing, development, and deployment<br>
 
-### What's in my Github? (Now or later)
-* Coding algorithm study
-* 부동산 웹 플랫폼 "집우리" 개발
-* 사회 초년생을 위한 CS 퀴즈 웹 플랫폼 "SEAS" 개발
-* 모두를 위한 모임 뱅킹 "모모뱅크" 개발
-* (WIll be added more soon)   
+#### For User
+Enhanced page loading speed by using **SSR Rendering**.<br>
+Enhanced page loading speed by dividng **client component** and **server component** with **lazy loading** method.<br>
+Developed considering user friendly UI & UX.<br>
+Developed considering **exceptions** that can occur in web sites.<br>
+Developed both **web** and **web app**.<br>
+
+### What did I do?
+Done projects using **Vue.js** and **React.js**.<br>
+Done projects using both frameworks, **Nuxt.js** and **Next.js**.<br>
+Done projects using **Javascript** and **Typescript**.<br>
+Done projects cooperating with back-end developer using **REST API** and **Git**.<br>
+Done projects using **PWA**.<br>
 
 ## 💻 My Stack
 
