@@ -19,10 +19,10 @@ Developed both **web** and **web app**.<br>
 
 ### What did I do?
 Done projects using **Vue.js** and **React.js**.<br>
-Done projects using both frameworks, **Nuxt.js** and **Next.js**.<br>
-Done projects using **Javascript** and **Typescript**.<br>
-Done projects cooperating with back-end developer using **REST API** and **Git**.<br>
-Done projects using **PWA**.<br>
+                    **Nuxt.js** and **Next.js**.<br>
+                    **Javascript** and **Typescript**.<br>
+                    **PWA**.<br>
+              cooperating with back-end developer using **REST API** and **Git**.<br>
 
 ## 💻 My Stack
 
