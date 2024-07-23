@@ -11,18 +11,23 @@ Studied **Spring & Srping boot** for better communication with back end develope
 **Experienced the entire process** of ideation, specification writing, development, and deployment<br>
 
 #### For User
-Enhanced page loading speed by using **SSR Rendering**.<br>
-Enhanced page loading speed by dividng **client component** and **server component** with **lazy loading** method.<br>
-Developed considering user friendly UI & UX.<br>
-Developed considering **exceptions** that can occur in web sites.<br>
-Developed both **web** and **web app**.<br>
+Enhanced page loading speed by <br>
+- Using **SSR Rendering**.<br>
+- Dividng **client component** and **server component** with **lazy loading** method.<br>
+
+Developed considering <br>
+- User friendly UI & UX.<br>
+- **Exceptions** that can occur in web sites.<br>
+- Both **web** and **web app**.<br>
 
 ### What did I do?
-Done projects using **Vue.js** and **React.js**.<br>
-                    **Nuxt.js** and **Next.js**.<br>
-                    **Javascript** and **Typescript**.<br>
-                    **PWA**.<br>
-              cooperating with back-end developer using **REST API** and **Git**.<br>
+Done projects using <br>
+- **Vue.js** and **React.js**.<br>
+- **Nuxt.js** and **Next.js**.<br>
+- **Javascript** and **Typescript**.<br>
+- **PWA**.<br>
+
+Cooperating with back-end developer using **REST API** and **Git**.<br>
 
 ## 💻 My Stack
 
