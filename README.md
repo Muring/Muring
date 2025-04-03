@@ -2,7 +2,7 @@
 
 ### I develop for U & I
 Welcome to my GitHub!<br>
-I develop for user convenience and developer convenience.<br>
+I develop for both user and developer convenience.<br>
 
 #### For Developer
 Tried many different **frameworks and libraries** to cooperate with any kind of developers.<br>
