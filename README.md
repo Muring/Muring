@@ -49,8 +49,6 @@ Cooperating with back-end developer using **REST API** and **Git**.<br>
 <img src="https://img.shields.io/badge/ETC-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/pwa-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"><img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white">
 
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muring&show_icons=true&theme=tokyonight)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=111esh)](https://solved.ac/111esh)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=111esh)](https://solved.ac/111esh)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=muring&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muring&show_icons=true&theme=tokyonight)
