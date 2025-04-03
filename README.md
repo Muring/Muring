@@ -53,4 +53,4 @@ Cooperating with back-end developer using **REST API** and **Git**.<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muring&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=111esh)](https://solved.ac/111esh)<br/>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=muring&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
