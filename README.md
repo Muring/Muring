@@ -4,33 +4,6 @@
 Welcome to my GitHub!<br>
 I develop for both user and developer convenience.<br>
 
-#### For Developer
-Tried many different **frameworks and libraries** to cooperate with any kind of developers.<br>
-Learned **Typecsript** for better cooperation in frontend developing.<br>
-Studied **Spring & Srping boot** for better communication with back end developers.<br>
-Studied **Salesforce** for better cooperation in salesforce developing.<br>
-**Experienced the entire process** of ideation, specification writing, development, and deployment<br>
-
-#### For User
-Enhanced page loading speed by <br>
-- Using **SSR Rendering**.<br>
-- Dividng **client component** and **server component** with **lazy loading** method.<br>
-
-Developed considering <br>
-- User friendly UI & UX.<br>
-- **Exceptions** that can occur in web sites.<br>
-- Both **web** and **web app**.<br>
-
-### What did I do?
-Done projects using <br>
-- **Vue.js** and **React.js**.<br>
-- **Nuxt.js** and **Next.js**.<br>
-- **Javascript** and **Typescript**.<br>
-- **PWA**.<br>
-- **Salesforce**.<br>
-
-Cooperating with back-end developer using **REST API** and **Git**.<br>
-
 ## 💻 My Stack
 
 ### Can do
